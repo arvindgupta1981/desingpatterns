@@ -59,7 +59,7 @@ Hign Cohension<br>
 - Create a client class and add conditions for each interface.<br>
 - Create and object of implementation class for each condition and set the object into the main class by using dependency injection.<br>
 
-<b>Examples</b>
+<b>Examples</b><br>
 
 <br>
 <br>
@@ -85,5 +85,12 @@ Client - Create command object and call invoker to execute of the command. <br>
 - Create Receiver implementation classes for each interface.  <br>
 - Create Invoker class and create an interface refernce vaiable inot the class and add dependency injection method/constructor. <br>
 - Create client. set the dependency by adding condition for each command. <br>
+
+<b>Examples</b><br>
+Java Threads
+
+<br>
+<br>
+<b>State Pattern </b><br>
 
 
