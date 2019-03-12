@@ -1,5 +1,4 @@
 # Desing Patterns in a week
-https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-design-patterns-part-7-bc9c003a0f29<br>
 
 <b>Why we should use Design Patterns:- </b><br>
 1- Design patterns has one to many relationship with OOPS.<br>
