@@ -1,0 +1,11 @@
+<b>List of Design Prinicipals<b><br>
+1- Separate the methods that can change in future from what stay unchanged.-All Behavioral Design Patterns<br>
+2- Creates interface to expose the method use by others and hide the implementations - Interface pattren<br>
+3- Use composition over inheritence as inheritence refer to static binding between classes - <br>
+4- Develop loosely coupled  Objects/systems - Change in implementation of one system should not impact other systems. - Observaer Pattern<br>
+5- Classes should be open for extension but closed for modification.- Decorator Pattern<br>
+6- Depend on intrefaces not on concreate implementations- Dependency inversion prinicipal- Abstract factory pattern<br>
+7- Prinicipal of least knowledge - talk to pnly your immediaate friends - Facade pattern<br>
+8- High level call the actual implementation - Template design pattern<br>
+9- Hign Cohesion - A class/module should write or represent a single purpose or responsibility but we can allow one more change which implement iterable implementation. If one class have more than two responsbilty then we need two iterable implementation<br>
+<br>
