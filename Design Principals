@@ -1,3 +1,5 @@
+All the design prinicipals are based that how we can make easiley CHANGES in a system in future.
+
 <b>List of Design Prinicipals<b><br>
 1- Separate the methods that could be change in future from what stay unchanged.-All Behavioral Design Patterns<br>
 2- Creates interface to expose the method use by others and hide the implementations - Interface pattren<br>
