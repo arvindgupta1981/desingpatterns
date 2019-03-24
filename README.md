@@ -1,11 +1,11 @@
 # Desing Patterns in a week
 
 <b>Why we should use Design Patterns:- </b><br>
-1- Design patterns has one to many relationship with OOPS.<br>
+1- Design Pattern provide a way to write easly mainatble and easly modify code for future CHANGES.<br>
 2- Design patterns provides the proven/resuable solution of a re-occuring problem of software development.<br>
 3- Design patterns provides a way to acheive loose coupling and hign cohennsion in the code <br>
-4- We can easly modify the code in future which return according to the design patterns.<br>
-5- Reduce the cost of writing duplicate code and testing.<br>
+4- Reduce the cost of writing duplicate code and testing.<br>
+5- Design patterns has one to many relationship with OOPS.<br>
 
 <br>
 <b>Behavioral software design pattern</b><br>
